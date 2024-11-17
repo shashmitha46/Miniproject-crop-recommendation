@@ -62,7 +62,7 @@ Contributions are welcome! Please fork the repository, create a new branch, make
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this project in accordance with the license terms.
 
 ## 🙌 Acknowledgments
-Machine Learning Community for resources and support.
-Data Providers for supplying the crop and soil datasets.
-Thanks to contributors for their efforts in building and maintaining this project.
+- Machine Learning Community for resources and support.
+- Data Providers for supplying the crop and soil datasets.
+- Thanks to contributors for their efforts in building and maintaining this project.
 
