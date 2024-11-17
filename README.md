@@ -2,10 +2,10 @@
 This project is a Crop Recommendation System built using Logistic Regression, a simple yet effective machine learning algorithm. It helps farmers and agricultural enthusiasts determine the most suitable crop to cultivate based on soil and environmental parameters.
 
 ## 🚀 Features
-- Logistic Regression Model: Accurate and interpretable predictions using a well-tuned logistic regression algorithm.
-- Easy Input System: Users can provide parameters like soil composition and climate conditions.
-- Customizable Dataset: Add or modify data to improve the model's accuracy.
-- Lightweight and Efficient: Perfect for deployment on resource-constrained systems.
+- **Logistic Regression Model:** Accurate and interpretable predictions using a well-tuned logistic regression algorithm.
+- **Easy Input System:** Users can provide parameters like soil composition and climate conditions.
+- **Customizable Dataset:** Add or modify data to improve the model's accuracy.
+- **Lightweight and Efficient:** Perfect for deployment on resource-constrained systems.
 
 ## 📋 Prerequisites
 Ensure the following are installed on your system:
