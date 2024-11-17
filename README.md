@@ -47,14 +47,21 @@ The recommendation system uses a Logistic Regression model due to its simplicity
 - Hyperparameter optimization
 
 ## 📈 Performance Metrics
-The Logistic Regression model was evaluated using the following metrics:
 
-- Accuracy: 91%
-- Precision: 89%
-- Recall: 90%
-- F1 Score: 89%
+The Logistic Regression model was evaluated using both a classification report and 5-fold cross-validation. Below are the summarized results:
 
-These metrics indicate that the model performs reliably and accurately for crop recommendation tasks. The detailed performance was measured using test data.
+### Cross-Validation Metrics:
+- **Mean Accuracy**: 95.47%
+- **Standard Deviation**: 0.90%
+
+### Classification Report Metrics:
+- **Accuracy**: 95.2%
+- **Weighted Avg Precision**: 95%
+- **Weighted Avg Recall**: 95%
+- **Weighted Avg F1-Score**: 95%
+
+These metrics indicate that the model performs reliably and consistently across different data splits and classes, ensuring accurate crop recommendations for diverse scenarios.
+
 ## 🤝 Contributing
 Contributions are welcome! Please fork the repository, create a new branch, make changes, and submit a pull request. Follow the contribution guidelines in the repository.
 
